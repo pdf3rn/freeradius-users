@@ -8,7 +8,7 @@ Clonar el repositorio
 
 Crear el entorno virtual
 
-`python3 -m virtualenv env`
+`python3 -m virtualenv -p python3 env`
 
 Activar el entorno
 
