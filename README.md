@@ -10,13 +10,13 @@ Crear el entorno virtual
 
 `python3 -m virtualenv env`
 
-Instalar los requerimientos
-
-`pip install -r requirements.txt`
-
 Activar el entorno
 
 `source env/bin/activate`
+
+Instalar los requerimientos
+
+`pip install -r requirements.txt`
 
 Ejecutar
 
